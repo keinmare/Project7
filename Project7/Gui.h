@@ -3,6 +3,7 @@ class Gui
 {
 public:
 	Gui();
+	saymyname();
 	~Gui();
 };
 
